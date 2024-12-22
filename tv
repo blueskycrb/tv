@@ -179,12 +179,12 @@
             "key": "push_agent",
             "name": "🌙@推送|T4",
             "type": 4,
-            "api": "http://192.168.1.5:54865/video/push_agent?platform=ysc&token=f343d1f8befbbc7c",
+            "api": "http:/192.168.1.5:54865/video/push_agent?platform=ysc&token=f343d1f8befbbc7c",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "filterable": 0
         }
     ],
-    "spider": http://192.168.1.5:54865/custom_spider.jar?token=f343d1f8befbbc7c;md5;cc3b3d2ddf389338b62eccd4a938b610"
+    "spider": "http://192.168.1.5:54865/custom_spider.jar?token=f343d1f8befbbc7c;md5;cc3b3d2ddf389338b62eccd4a938b610"
 }
