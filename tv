@@ -1,0 +1,190 @@
+{
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "lives": [
+        {
+            "name": "IPTV",
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType": 2
+        }
+    ],
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+    "sites": [
+        {
+            "ext": "eyJhcGkiOiJodHRwOi8vNTIxMzIuYXNpYTo0NTEyNiIsInRva2VuIjoiIn0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "丫仙女",
+            "changeable": 0,
+            "jar": "http://192.168.1.5:45126/spring.jar",
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
+        {
+            "ext": "eyJhcGkiOiJodHRwOi8vNTIxMzIuYXNpYTo0NTEyNiIsInRva2VuIjoiIn0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "AList",
+            "changeable": 0,
+            "jar": "http://192.168.1.5:45126/spring.jar",
+            "api": "csp_AList",
+            "type": 3,
+            "key": "csp_AList",
+            "searchable": 1
+        },
+        {
+            "key": "ysdqq",
+            "name": "🌙@TGX|影视大全|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/ysdqq?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Quark_Movies",
+            "name": "🌙@TG|夸克综合资源|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/Quark_Movies?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "douban",
+            "name": "🌙@豆瓣电影|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/douban?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 1
+        },
+        {
+            "key": "share",
+            "name": "🌙@网盘合集|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/share?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "wogg",
+            "name": "🌙@玩偶|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/wogg?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "labi",
+            "name": "🌙@蜡笔|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/labi?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "mogg",
+            "name": "🌙@木偶|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/mogg?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "mihdr",
+            "name": "🌙@至臻|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/mihdr?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "xiaomi",
+            "name": "🌙@小米|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/xiaomi?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "duoduo",
+            "name": "🌙@多多|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/duoduo?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ouge",
+            "name": "🌙@讴歌|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/ouge?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "tudou",
+            "name": "🌙@土豆|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/tudou?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "nmys",
+            "name": "🌙@农民影视|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/nmys?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "iptv",
+            "name": "🌙@IPTV|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/iptv?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0
+        },
+        {
+            "key": "example",
+            "name": "🌙@示例|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/example?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "🌙@推送|T4",
+            "type": 4,
+            "api": "http://192.168.1.5:54865/video/push_agent?platform=ysc&token=f343d1f8befbbc7c",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0
+        }
+    ],
+    "spider": http://192.168.1.5:54865/custom_spider.jar?token=f343d1f8befbbc7c;md5;cc3b3d2ddf389338b62eccd4a938b610"
+}
